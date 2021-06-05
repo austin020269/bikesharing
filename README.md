@@ -12,7 +12,7 @@ Data provided for the project included August 2019 Citi Bike data (201908-citibi
 - Personal Github account
 
 ## Analysis and Workflow - 
-Pandas was used to display and clean the data that was then exported to a new .csv file that was later used in Tableau to create visualizations for the Challenge.
+Pandas was used to display and clean the data that was then exported to a new .csv file and later used in Tableau to create visualizations for the Challenge.
 
 Deliverable 1: 
 1. Create a DataFrame from the 201908-citibike-tripdata.csv file.
