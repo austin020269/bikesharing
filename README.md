@@ -14,7 +14,7 @@ Data provided for the project included August 2019 Citi Bike data (201908-citibi
 ## Analysis and Workflow - 
 Pandas was used to display and clean the data that was then exported to a new .csv file that was later used in Tableau to create visualizations for the Challenge.
 
-Deliverable 1 
+Deliverable 1: 
 1. Create a DataFrame from the 201908-citibike-tripdata.csv file.
 2. Check the datatypes of each column in the DataFrame.
 3. Convert the "tripduration" column to a datetime datatype by passing the DataFrame column and the units inside the to_datetime() function.
@@ -24,4 +24,4 @@ Deliverable 1
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1.PNG)
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1_2.PNG)
 
-Deliverable 2
+Deliverable 2:
