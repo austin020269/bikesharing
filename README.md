@@ -18,3 +18,6 @@ Deliverable 1
 3. Convert the "tripduration" column to a datetime datatype by passing the DataFrame column and the units inside the to_datetime() function.
 4. Check the datatypes of the DataFrame.
 5. Export the DataFrame as a new CSV file without the index column and use this new CSV file for Deliverable 2.
+
+![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1.PNG)
+![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1_2.PNG)
