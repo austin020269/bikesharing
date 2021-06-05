@@ -21,3 +21,5 @@ Deliverable 1
 
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1.PNG)
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1_2.PNG)
+
+Deliverable 2
