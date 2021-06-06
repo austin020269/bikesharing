@@ -27,11 +27,15 @@ Deliverable 1:
 Deliverable 2:
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_1.PNG)
+
 2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_2.PNG)
+
 3. A heatmap is created showing the number of bike trips for each hour of each day of the week.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_3.PNG)
+
 4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_4.PNG)
+
 5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_5.PNG)
