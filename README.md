@@ -21,8 +21,14 @@ Deliverable 1:
 4. Check the datatypes of the DataFrame.
 5. Export the DataFrame as a new CSV file without the index column and use this new CSV file for Deliverable 2.
 
+Pandas code:
+
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1.PNG)
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1_2.PNG)
+
+New data created to use in Tableau:
+
+![alt text](https://github.com/austin020269/biksharing/blob/main/Cleaned_data_Aug_2019.PNG)
 
 Deliverable 2: For the following displays gender (number) sequences in the "Number of String" legends are female (2), male (1) and unknown (0).
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
