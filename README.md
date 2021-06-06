@@ -55,8 +55,9 @@ Some of the conclusions that can be drawn from the products that were made durin
 
 Further details of this study can be seen on the Tableau public dashboard : 
 
+https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudy_16229476255070/Story1
 https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudyadditionaldata/Story1
-https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudyadditionaldata/Story2
+
 
 
 
