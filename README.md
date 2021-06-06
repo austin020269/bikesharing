@@ -53,7 +53,7 @@ Some of the conclusions that can be drawn from the products that were made durin
 - Weekends show more consistent riding during the days while weekdays show peak hours before and after work during high commute times (Deli 2 Image 3 and 4)
 - The greatest usage of the service is by males with the most usage on Thuirsdat and Fridays.
 
-Further details of this study can be seen on the Tableau public dashboard : 
+Further details of this study can be seen on the Tableau public dashboards : 
 
 https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudy_16229476255070/Story1
 https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudyadditionaldata/Story1
