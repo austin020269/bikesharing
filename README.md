@@ -45,3 +45,12 @@ Deliverable 2:  For the following displays gender (number) sequences in the "Num
 
 5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_5.PNG)
+
+Deliverable 3: Create a Story and Report
+
+Some of the key questions I was interested in answering after looking at the data
+
+
+
+
+
