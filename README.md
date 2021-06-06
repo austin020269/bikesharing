@@ -24,7 +24,7 @@ Deliverable 1:
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1.PNG)
 ![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1_2.PNG)
 
-Deliverable 2:
+Deliverable 2: For the following displays gender (number) sequences are female (2), male (1) and unknown (0).
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_1.PNG)
 
