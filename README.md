@@ -7,7 +7,7 @@ To research the idea of opening a bicycle sharing program in the Des Moines, Iow
 ## Resources
 Data provided for the project included August 2019 Citi Bike data (201908-citibike-tripdata.csv) as well as using the following software and applications:
 - Personal Tableau Public account
-- Pandas
+- Jupyter Notebook (Pandas)
 - Conda
 - Personal Github account
 
