@@ -52,7 +52,7 @@ Some of the conclusions that can be drawn from the products that were made durin
 - Males are the largest users of the service which is backed by all data products.
 - Most bike rides are between 3 and 15 minutes for both males and females (Deli 2 Image 1 and 2).
 - Weekends show more consistent riding during the days while weekdays show peak hours before and after work during high commute times (Deli 2 Image 3 and 4)
-- The greatest usage of the service is by males with the most usage on Thuirsdat and Fridays.
+- The greatest usage of the service is by males with the most usage on Thursdays and Fridays.
 
 Further details of this study can be seen on the Tableau public dashboards : 
 
