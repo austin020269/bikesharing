@@ -46,9 +46,14 @@ Deliverable 2:  For the following displays gender (number) sequences in the "Num
 5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_5.PNG)
 
-Deliverable 3: Create a Story and Report
+Deliverable 3: Results
+Some of the conclusions that can be drawn from the products that were made during this project include:
 
-Some of the key questions I was interested in answering after looking at the data
+- Most bike rides are between 3 and 15 minutes for bot males and females (Deli 2 Image 1 and 2).
+- Weekends show more consistent riding during the days while weekdays show peak hours before and after work during high commute times (Deli 2 Image 3 and 4)
+- The greatest usage of the service is by males with the most usage on Thuirsdat and Fridays.
+
+Further details of this study can be seen on the Tableau public dashboard : https://public.tableau.com/profile/jeffrey.keith.austin#!/
 
 
 
