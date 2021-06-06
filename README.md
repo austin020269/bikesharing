@@ -30,7 +30,7 @@ New data created to use in Tableau:
 
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Cleaned_data_Aug_2019.PNG)
 
-Deliverable 2: For the following displays gender (number) sequences in the "Number of String" legends are female (2), male (1) and unknown (0).
+Deliverable 2:  For the following displays gender (number) sequences in the "Number of String" legends are female (2), male (1) and unknown (0).
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_1.PNG)
 
