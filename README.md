@@ -47,6 +47,7 @@ Deliverable 2:  For the following displays gender (number) sequences in the "Num
 ![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_5.PNG)
 
 Deliverable 3: Results
+
 Some of the conclusions that can be drawn from the products that were made during this project include:
 
 - Males are the largest users of the service which is backed by all data products.
